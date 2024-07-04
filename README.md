@@ -19,7 +19,7 @@ It highlights various projects I've worked on, demonstrating my skills and exper
 
 ## About Me
 
-I am [Your Name], a [Your Profession/Field] with a passion for [Your Interests].
+I am Léon, an application developer with a passion for [Your Interests].
 I have experience in [Your Skills/Technologies] and enjoy working on projects that involve [Your Favorite Topics].
 
 ## Contact
